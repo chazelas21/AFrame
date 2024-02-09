@@ -5,4 +5,4 @@
 
 ## QR Code
 
-
+![mon_image](/assets/QRCode.png)
