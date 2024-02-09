@@ -1,8 +1,8 @@
-## Célia Chazelas
+# Célia Chazelas
 
-# My creativity is yours
+## My creativity is yours
 
 
-# QR Code
+## QR Code
 
 
